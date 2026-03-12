@@ -1,0 +1,27 @@
+.newSection {
+  background-color: black;
+  padding: 1em;
+  margin: 1em;
+}
+
+.newSection__h1 {
+  color: var(--soft__orange);
+}
+
+.preview {
+  padding: 1em 0;
+}
+
+.preview__title {
+  font-weight: bold;
+  color: white;
+}
+
+.preview__text {
+  color: rgb(204, 202, 202);
+}
+
+hr {
+  margin-top: 2em;
+  color: rgb(204, 202, 202);
+}

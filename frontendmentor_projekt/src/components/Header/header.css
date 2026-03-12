@@ -1,0 +1,22 @@
+header {
+  max-width: 100vw;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 1rem 1rem;
+}
+
+.headerlogo__mobile {
+  height: 2em;
+}
+
+.menu__mobile {
+  height: 1em;
+}
+
+/*
+TO DO: 
+- create Nav menu for desktop mode
+- Media queries,switch nav to hamburger icon
+*/
